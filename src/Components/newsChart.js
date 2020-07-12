@@ -10,13 +10,14 @@ function NewsChart(props) {
     const chartRef = useRef();
     //console.log(props);
 
-    const labels = data.map(item => item.objectID);
-    //console.log(labels);
-    const dataSet = data.map(item => item.points);
+    // const labels = data.map(item => item.objectID);
+    // const dataSet = data.map(item => item.points);
     //console.log(dataSet);
 
     // initialize the chart
     useEffect(() => {
+        const labels = data.map(item => item.objectID);
+        const dataSet = data.map(item => item.points);
         if (canvasRef.current) {
             chartRef.current = new Chart(canvasRef.current, {
                 type: 'line',
