@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github.io/sapient-app/static/css/main.7296775f.chunk.css",
-    "main.js": "/github.io/sapient-app/static/js/main.4f918486.chunk.js",
-    "main.js.map": "/github.io/sapient-app/static/js/main.4f918486.chunk.js.map",
+    "main.js": "/github.io/sapient-app/static/js/main.1e6c84e8.chunk.js",
+    "main.js.map": "/github.io/sapient-app/static/js/main.1e6c84e8.chunk.js.map",
     "runtime-main.js": "/github.io/sapient-app/static/js/runtime-main.d28d210a.js",
     "runtime-main.js.map": "/github.io/sapient-app/static/js/runtime-main.d28d210a.js.map",
     "static/js/2.28302985.chunk.js": "/github.io/sapient-app/static/js/2.28302985.chunk.js",
     "static/js/2.28302985.chunk.js.map": "/github.io/sapient-app/static/js/2.28302985.chunk.js.map",
     "index.html": "/github.io/sapient-app/index.html",
-    "precache-manifest.82f73ce968742e808721b93eb78f4a5c.js": "/github.io/sapient-app/precache-manifest.82f73ce968742e808721b93eb78f4a5c.js",
+    "precache-manifest.c213491cf0eaffd86e36f35ae26f9469.js": "/github.io/sapient-app/precache-manifest.c213491cf0eaffd86e36f35ae26f9469.js",
     "service-worker.js": "/github.io/sapient-app/service-worker.js",
     "static/css/main.7296775f.chunk.css.map": "/github.io/sapient-app/static/css/main.7296775f.chunk.css.map",
     "static/js/2.28302985.chunk.js.LICENSE.txt": "/github.io/sapient-app/static/js/2.28302985.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d28d210a.js",
     "static/js/2.28302985.chunk.js",
     "static/css/main.7296775f.chunk.css",
-    "static/js/main.4f918486.chunk.js"
+    "static/js/main.1e6c84e8.chunk.js"
   ]
 }
